@@ -28,8 +28,8 @@ void selection_sort(int *array, size_t size)
 
 /**
  * swap - swaps two variable values present in an array.
- * @@x: pointer to variable.
- * @y pointer to thr other variable.
+ * @x: pointer to variable.
+ * @y: pointer to thr other variable.
  */
 
 void swap(int *x, int *y)
